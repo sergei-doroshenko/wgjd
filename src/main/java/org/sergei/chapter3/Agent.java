@@ -1,5 +1,4 @@
 package org.sergei.chapter3;
-
 /**
  * Agent class, used by many listings in CH03
  */
