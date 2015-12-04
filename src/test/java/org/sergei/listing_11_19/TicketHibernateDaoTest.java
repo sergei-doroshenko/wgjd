@@ -1,13 +1,14 @@
 package org.sergei.listing_11_19;
 
-import java.math.BigDecimal;
-import org.hibernate.cfg.Configuration;
 import org.hibernate.SessionFactory;
+import org.hibernate.cfg.Configuration;
 import org.junit.*;
 import org.sergei.chapter11.listing_11_19.Ticket;
 import org.sergei.chapter11.listing_11_19.TicketHibernateDao;
 
-import static org.junit.Assert.*;
+import java.math.BigDecimal;
+
+import static org.junit.Assert.assertEquals;
 
 public class TicketHibernateDaoTest {
 

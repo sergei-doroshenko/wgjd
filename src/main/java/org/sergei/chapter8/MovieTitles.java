@@ -1,6 +1,7 @@
 package org.sergei.chapter8;
 
-import java.util.*;
+import java.util.ArrayList;
+import java.util.List;
 
 /**
  * Code for listing 8_7

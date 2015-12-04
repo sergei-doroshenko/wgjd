@@ -1,13 +1,14 @@
 package org.sergei.listing_11_18;
 
-import java.math.BigDecimal;
-import org.hibernate.cfg.Configuration;
 import org.hibernate.SessionFactory;
+import org.hibernate.cfg.Configuration;
 import org.junit.*;
 import org.sergei.chapter11.listing_11_18.Ticket;
 import org.sergei.chapter11.listing_11_18.TicketHibernateDao;
 
-import static org.junit.Assert.*;
+import java.math.BigDecimal;
+
+import static org.junit.Assert.assertEquals;
 
 /**
  * This test is deliberately skipped in the Maven build You can run it manually

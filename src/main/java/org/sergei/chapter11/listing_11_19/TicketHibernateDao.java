@@ -1,10 +1,11 @@
 package org.sergei.chapter11.listing_11_19;
 
-import java.util.List;
 import org.hibernate.Criteria;
 import org.hibernate.Session;
 import org.hibernate.SessionFactory;
 import org.hibernate.criterion.Restrictions;
+
+import java.util.List;
 
 public class TicketHibernateDao {
 

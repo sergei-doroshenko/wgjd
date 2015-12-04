@@ -1,9 +1,9 @@
 package org.sergei.chapter3;
 
+import com.google.inject.Inject;
+
 import java.util.ArrayList;
 import java.util.List;
-
-import com.google.inject.Inject;
 
 /**
  * Code for listing 3_5

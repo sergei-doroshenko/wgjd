@@ -1,7 +1,8 @@
 package org.sergei.chapter8;
 
-import groovy.lang.GroovyShell;
 import groovy.lang.Binding;
+import groovy.lang.GroovyShell;
+
 import java.math.BigDecimal;
 
 /**
